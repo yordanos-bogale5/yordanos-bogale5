@@ -1,4 +1,4 @@
-<h1 align="center">👋, Hi there! I'm Yordanos Bogale</h1>
+<h1 align="center">👋  Hi there! I'm Yordanos Bogale</h1>
 <h3 align="center">a seasoned software engineer passionate about crafting resilient solutions. Specializing in mobile, web, AI, and DevOps, I thrive on building innovative and scalable tech. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordanos-bogale5&label=Profile%20views&color=0e75b6&style=flat" alt="yordanos-bogale5" /> </p>
