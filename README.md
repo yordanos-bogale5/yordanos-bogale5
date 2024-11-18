@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yordanos_b14656" target="blank"><img src="https://img.shields.io/twitter/follow/yordanos_b14656?logo=twitter&style=for-the-badge" alt="yordanos_b14656" /></a> </p>
 
-- 🔭 I am employed as a Senior Software Developer at Creavers Service PLC.]https://github.com/yordanos-bogale5/E-learning-app-by-flutter)
+- 🔭 I am employed as a Senior Software Developer at Creavers Service PLC.
 
-- 🌱 I’m currently learning **Software Engineering at AMU**
+- 🌱 I earned my Bachelor's degree in Software Engineering from Arbaminch University.
 
 - 👯 I’m looking to collaborate on [Any mobile-app and Web-based projects](https://github.com/yordanos-bogale5/E-learning-app-by-flutter)
 
