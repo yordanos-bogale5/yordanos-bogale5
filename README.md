@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yordanos_b14656" target="blank"><img src="https://img.shields.io/twitter/follow/yordanos_b14656?logo=twitter&style=for-the-badge" alt="yordanos_b14656" /></a> </p>
 
-- 🔭 I’m currently working on [e-learning mobile app to Good Grade Studen](https://github.com/yordanos-bogale5/E-learning-app-by-flutter)
+- 🔭 I am employed as a Senior Software Developer at Creavers Service PLC.]https://github.com/yordanos-bogale5/E-learning-app-by-flutter)
 
 - 🌱 I’m currently learning **Software Engineering at AMU**
 
